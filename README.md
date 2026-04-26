@@ -4,6 +4,8 @@ Kiriosity is a lightweight desktop app that captures on-screen text and translat
 
 Perfect for games, chats, or anything where you need quick translations without switching windows.
 
+<img width="980" height="576" alt="image" src="https://github.com/user-attachments/assets/4bd6cec3-6934-4ac2-8369-6a7024b49d4f" />
+
 ---
 
 ## 🚀 Features
