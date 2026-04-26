@@ -8,7 +8,7 @@ Perfect for games, chats, or anything where you need quick translations without 
 
 ---
 
-## 🚀 Features
+## ✨ Features ✨
 
 * 📸 Select any area of your screen (F8)
 * 🌍 Automatic translation to English
